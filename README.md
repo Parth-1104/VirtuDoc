@@ -1,10 +1,4 @@
-# Post-Call Transcription Summaries with VideoSDK
 
-VideoSDK simplifies generating post-call transcription summaries in two ways: Automatic Start and Manual Start. These summaries ensure all meeting details are captured, organized, and ready for review.
-
-[![Watch the video](/public/images/thumbnail.png)](https://youtu.be/m1oZckjJK9c)
-
----
 
 ## Getting Started
 
@@ -28,7 +22,7 @@ npm install
 
 ### Generate auth token
 
-Generate a temporary token from your [Video SDK Account](https://app.videosdk.live/).:
+
 
 copy .env.example
 
@@ -193,6 +187,6 @@ By combining manual recording management with post-transcription summaries and w
 
 ## Documentation
 
-For more detailed information, visit the [VideoSDK Documentation](https://docs.videosdk.live/).
+
 
 ---
